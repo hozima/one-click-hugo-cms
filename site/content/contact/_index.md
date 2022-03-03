@@ -3,9 +3,9 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "78315 Radolfzell am Bodensee, Baden-Württemberg"
+  - heading: Öffnungszeiten
+    text: "Montag – Freitag: 9.00 Uhr – 17.00 Uhr We’re closed on Sundays"
 ---
 
 We’d love to get in touch with you and hear your ideas and
